@@ -6,10 +6,9 @@ There are 2 common types of interviews that most companies do: job fit and techn
 
 # Job fit
 
-Andrew will interview Alejandro.
+Andrew will interview Stacie.
 
 # Technical
 
-John will interview Indira, spending most of the time reviewing her take home assignment.
+X will interview X, spending most of the time reviewing her take home assignment.
 
-[https://www.youtube.com/watch?v=6Ka89GgSUuc](https://www.youtube.com/watch?v=6Ka89GgSUuc)

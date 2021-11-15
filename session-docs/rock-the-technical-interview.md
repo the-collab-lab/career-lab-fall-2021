@@ -1,6 +1,8 @@
 # Sync: How to rock the technical interview
 
-> **Presenter: @Scott Reu** > **Homework:** Find a partner and practice a mock-interview
+> **Presenter: Chris Dopuch** > 
+> 
+> **Homework:** Find a partner and practice a mock-interview
 
 ## Resources
 

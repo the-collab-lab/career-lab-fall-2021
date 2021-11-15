@@ -11,7 +11,7 @@
 | Sun, Nov 28 - Fri, Dec 3 | Async | [What to include on your Linkedin profile](./session-docs/what-to-include-on-linkedin.md)                |
 | Tues, Nov 30 at 7AM PT | Sync  | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
 | Wed, Dec 1 at 10AM PT| Sync  | [Linkedin Profile Q&A](./session-docs/linkedin-qanda.md)                                                 |
-| Wed, Dec 1 - Sat Dec 4 | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
+| Wed, Dec 1 - Sat, Dec 4 | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
 | Thurs, Dec 2 at 4:30PM PT | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
 | Sat, Dec 4 - your technical mock interview | Async | [Complete takehome assignment](./session-docs/complete-take-home-assignment.md)                          |
 | Sat, Dec 4 - your mock interviews | Sync  | [Pair interview practice](./session-docs/pair-interview-practice.md)                                     |
