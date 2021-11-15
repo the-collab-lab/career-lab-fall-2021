@@ -15,7 +15,7 @@
 | Thurs, Dec 2nd at 4:30PM PT | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
 | -----            | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
 | -----            | Async | [Complete takehome assignment](./session-docs/complete-take-home-assignment.md)                          |
-| -----            | Sync  | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
+| Sun, Dec 12th at 2PM PT | Sync  | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
 | -----            | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
 | -----            | Sync  | [Pair interview practice](./session-docs/pair-interview-practice.md)                                     |
 | -----            | Sync  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
