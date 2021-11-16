@@ -17,7 +17,7 @@
 | Sat, Dec 4 - your mock interviews | Sync  | [Pair interview practice](./session-docs/pair-interview-practice.md)                                     |
 | Sun, Dec 5 at 2PM PT | Sync  | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
 | Sun, Dec 5 at 3PM PT | Sync  | [Intro to the takehome assignement](./session-docs/intro-to-take-home.md)                                |
-| -----            | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
 | Mon, Dec 6 - Sat, Dec 11 | Sync  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
 | Mon, Dec 6 - Sat, Dec 11 | Sync  | [Job fit mock interview](./session-docs/mock-interview-job-fit.md)                                       |
+| Thurs, Dec 9 at 2PM PT | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
 | Sun, Dec 12 at 8AM PT | Sync  | [Graduation](./session-docs/graduation.md)                                                               |
