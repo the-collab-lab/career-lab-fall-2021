@@ -27,13 +27,28 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 ---
 
 Job-Fit Interview Pairings:
+
 [comment]: <> (Populate using the values in this CodeSandbox: https://codesandbox.io/s/career-lab-pairings-u1qmj?file=/src/App.js)
 [comment]: <> (TODO: move this script into this project somehow)
-| Collabie | Mentor |
+
+| Collabie | Job Fit Interviewer |
 | ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
+| Jordan Raleigh | April Leone |
+| Fatima Camero | April Leone |
+| Ayu Adiati | Brian Hogan |
+| Edema Ukabi | Brian Hogan |
+| Andrea Martz | Brian Hogan |
+| Fatima Olasunkanmi-ojo | Juan Andrade |
+| Gabriela Niño | Juan Andrade |
+| Susana R | Juan Andrade |
+| Yancarlo Urdaneta | Juan Andrade |
+| Mailliw Mogollon | Melina Mejía Bedoya |
+| Dana Chen | Melina Mejía Bedoya |
+| Ikram | Andrew Hedges |
+| Mandi Hamza | Andrew Hedges |
+| Jennifer Toops | Andrew Hedges |
+| Arvin Fernandez | Andrew Hedges |
+
+
+
+

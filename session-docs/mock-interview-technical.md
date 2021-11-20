@@ -26,14 +26,24 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 ---
 
 Technical Interview Pairings:
+
 [comment]: <> (Populate using the values in this CodeSandbox: https://codesandbox.io/s/career-lab-pairings-u1qmj?file=/src/App.js)
 [comment]: <> (TODO: move this script into this project somehow)
-| Collabie | Mentor |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
 
+| Collabie | Technical Interviewer |
+| ---- | ---- |
+| Jordan Raleigh | April Leone |
+| Gabriela Niño | April Leone |
+| Mandi Hamza | John Hyland |
+| Jennifer Toops | John Hyland |
+| Andrea Martz | John Hyland |
+| Arvin Fernandez | Rob Yoder |
+| Edema Ukabi | Rob Yoder |
+| Ikram | Rob Yoder |
+| Fatima Olasunkanmi-ojo | Eddie Hinkle |
+| Dana Chen | Eddie Hinkle |
+| Ayu Adiati | Eddie Hinkle |
+| Fatima Camero | Fauricio Valencia
+| Mailliw Mogollon | Fauricio Valencia  |
+| Yancarlo Urdaneta | Fauricio Valencia |
+| Susana R | Fauricio Valencia  |

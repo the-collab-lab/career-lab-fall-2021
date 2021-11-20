@@ -13,13 +13,24 @@ Please have review and [rubric](https://the-collab-lab.slack.com/archives/C01L13
 ---
 
 Linkedin Review Pairings:
+
 [comment]: <> (Populate using the values in this CodeSandbox: https://codesandbox.io/s/career-lab-pairings-u1qmj?file=/src/App.js)
 [comment]: <> (TODO: move this script into this project somehow)
-| Collabie | Mentor |
+
+| Collabie | Linkedin Reviewer |
 | ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
+| Susana R | Melina Mejía Bedoya |
+| Dana Chen | Melina Mejía Bedoya |
+| Mailliw Mogollon | Melina Mejía Bedoya |
+| Yancarlo Urdaneta | Melina Mejía Bedoya |
+| Mandi Hamza | Rudi Psenicnik |
+| Jordan Raleigh | Rudi Psenicnik |
+| Ayu Adiati | Rudi Psenicnik |
+| Arvin Fernandez | Rudi Psenicnik |
+| Fatima Olasunkanmi-ojo | Jennifer Batara |
+| Andrea Martz | Jennifer Batara |
+| Gabriela Niño | Jennifer Batara |
+| Ikram | Genevieve Werick |
+| Fatima Camero | Genevieve Werick |
+| Jennifer Toops | Genevieve Werick |
+| Edema Ukabi | Genevieve Werick |
