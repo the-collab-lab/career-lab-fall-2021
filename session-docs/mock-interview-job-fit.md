@@ -13,7 +13,7 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 - Collabies will reach out to their assigned mentor to schedule the interview.
 - Mentors will send the Collabie a job description from their own company so that the Collabie knows what role they are interviewing for. This will help simulate a more realistic interview experience. If you do not have access to a job description, you can use this one:
 
-  [Frontend Engineer Job Description]()
+  [Engineer Job Description](../resources/mock-job-description.md)
 
 - Review the [Job fit interview questions](../resources/job-fit-interview-questions.md)
 
