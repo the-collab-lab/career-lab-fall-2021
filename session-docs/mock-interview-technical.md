@@ -39,11 +39,11 @@ Technical Interview Pairings:
 | Andrea Martz | John Hyland |
 | Arvin Fernandez | Rob Yoder |
 | Edema Ukabi | Rob Yoder |
+| Fatima Camero | Rob Yoder |
 | Ikram | Rob Yoder |
 | Fatima Olasunkanmi-ojo | Eddie Hinkle |
 | Dana Chen | Eddie Hinkle |
 | Ayu Adiati | Eddie Hinkle |
-| Fatima Camero | Fauricio Valencia
 | Mailliw Mogollon | Fauricio Valencia  |
 | Yancarlo Urdaneta | Fauricio Valencia |
 | Susana R | Fauricio Valencia  |

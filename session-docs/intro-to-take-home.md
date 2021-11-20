@@ -16,11 +16,12 @@ In this session, we will describe in more detail what is expected of you for the
 
 Partner with a friend to get rolling on the take-home assignment: 
 
-| Collabie | Collabie |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
+| Collabie | Collabie | Collabie |
+| ---- | ---- | ---- |
+| Susana R | Mailliw Mogollon |
+| Gabriela Niño | Arvin Fernandez |
+| Andrea Martz | Ikram |
+| Jordan Raleigh | Jennifer Toops |
+| Fatima Camero | Yancarlo Urdaneta  | Mandi Hamza |
+| Dana Chen | Fatima Olasunkanmi-ojo |
+| Edema Ukabi | Ayu Adiati |

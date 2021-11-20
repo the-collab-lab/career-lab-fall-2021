@@ -2,7 +2,7 @@
 
 > **Presenter: Chris Dopuch** > 
 > 
-> **Homework:** Find a partner and practice a mock-interview
+> **Homework:** Find a partner and practice a mock-interview [optional]
 
 ## Resources
 
