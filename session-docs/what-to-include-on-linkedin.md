@@ -12,6 +12,10 @@ In this lesson, we will go over each of the main parts of a LinkedIn profile. To
 
 # Let’s get started!
 
+> En éste link pueden ver notas en español donde podrán encontrar un resúmen de los videos en “What to include on your LinkedIn profile” 
+> 
+> [Spanish - What to include on your Linkedin profile](./what-to-include-on-linkedin-spanish.md)
+
 ### Part 1: Photo, title, background, About Section, Featured Section
 
 **Here’s the video**: [https://www.loom.com/share/abada08ad9a54e6e9b294b7ae5b758cc](https://www.notion.so/abada08ad9a54e6e9b294b7ae5b758cc)
