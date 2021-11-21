@@ -19,9 +19,9 @@ Partner with a friend to get rolling on the take-home assignment:
 | Collabie | Collabie | Collabie |
 | ---- | ---- | ---- |
 | Susana R | Mailliw Mogollon |
+| Edema Ukabi | Dana Chen |
 | Gabriela Niño | Arvin Fernandez |
 | Andrea Martz | Ikram |
-| Jordan Raleigh | Jennifer Toops |
 | Fatima Camero | Yancarlo Urdaneta  | Mandi Hamza |
-| Dana Chen | Fatima Olasunkanmi-ojo |
-| Edema Ukabi | Ayu Adiati |
+| Ayu Adiati | Fatima Olasunkanmi-ojo |
+| Jordan Raleigh | Jennifer Toops |
