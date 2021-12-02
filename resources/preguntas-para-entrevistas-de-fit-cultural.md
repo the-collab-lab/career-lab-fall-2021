@@ -21,5 +21,5 @@ Las siguientes preguntas son sugeridas para entrevistas de fit cultural:
 - Dos buenas preguntas finales:
   - Cuál piensas que sería el principal reto para ti en éste rol?
   - Cuál es la mayor fortaleza que tu crees que traerías para el rol?
-​
+
 NOTA: ownership se podría definir como "tener sentido de propiedad", pero no se puso directamente en la pregunta ya que es un anglicismo adoptado en el medio.
