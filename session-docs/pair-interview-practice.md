@@ -2,7 +2,7 @@
 
 ## Let's pair up and practice interviewing with fellow Collabies!
 
-Each Collabie participating in Career Lab is encouraged to pair up with a partner to practice interviewing.
+While this session is optional, each Collabie participating in Career Lab is encouraged to pair up with a partner to practice interviewing.
 
 Reach out to a fellow Collabie, schedule a meeting, and work through the questions listed in the pages below so that you can each feel more confident navigating the technical and job-fit interviews!
 
