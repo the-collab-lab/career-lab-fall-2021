@@ -12,6 +12,3 @@
 | How does it showcase who you are? | 
 | What is your storytelling method? (Tool or tools) | 
 | What story type will you use? | 
-
-Watch the recording here: [How to tell your story with Lisa Shissler Smith | Career Lab Fall 2021
-1](https://www.youtube.com/watch?v=ztFNUroDBG4)

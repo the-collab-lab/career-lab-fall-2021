@@ -1,6 +1,6 @@
 # Sync: Intro to the take home assignment
 
-> **Presenter: Caitlyn Greffly**
+> **Presenter: [NAME]**
 
 > **Homework:** Complete the take-home assignment. You can pair with your assigned partner below to plan an approach.
 
@@ -18,10 +18,3 @@ Partner with a friend to get rolling on the take-home assignment:
 
 | Collabie | Collabie | Collabie |
 | ---- | ---- | ---- |
-| Susana R | Mailliw Mogollon |
-| Edema Ukabi | Dana Chen |
-| Gabriela Niño | Arvin Fernandez |
-| Andrea Martz | Ikram |
-| Fatima Camero | Yancarlo Urdaneta  | Mandi Hamza |
-| Ayu Adiati | Fatima Olasunkanmi-ojo |
-| Jordan Raleigh | Jennifer Toops |

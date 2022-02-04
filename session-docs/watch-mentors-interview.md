@@ -11,9 +11,9 @@ There are 2 common types of interviews that most companies do: job fit and techn
 
 # Job fit
 
-Andrew will interview Stacie in a mock job fit interview.
+[NAME] will interview [NAME] in a mock job fit interview.
 
 # Technical
 
-April will interview Luis in a mock technical interview, spending most of the time reviewing her take home assignment.
+[NAME] will interview [NAME] in a mock technical interview, spending most of the time reviewing her take home assignment.
 
